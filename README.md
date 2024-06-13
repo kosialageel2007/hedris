@@ -20,7 +20,7 @@ cd hedris
 
 chmod +x bash ageel-dec.sh
 
-bash bash ageel-dec.sh
+bash ageel-dec.py
 
 
 DATOS:
